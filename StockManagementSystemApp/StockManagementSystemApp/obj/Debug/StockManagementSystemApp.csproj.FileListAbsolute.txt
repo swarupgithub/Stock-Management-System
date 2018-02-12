@@ -1,0 +1,119 @@
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+D:\bitm\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.dll
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.StockPrintForm.resources
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.cache
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.compiled
+D:\Bitm batch55 Rashik\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.SalesPrintForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.SalesPrintForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.StockPrintForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.cache
+F:\Z_LICT\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.compiled
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.SalesPrintForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.StockPrintForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.cache
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.compiled
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.MenuForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SplashScreenForm.resources
+F:\Z_LI\BITM\Final Rashiq\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.LogInForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.MenuForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.SalesPrintForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.StockPrintForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.LogInForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SplashScreenForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.cache
+F:\Z_LI\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.compiled
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.MenuForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.SalesPrintForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Reporting.StockPrintForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CategoryForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.CompanyForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ItemForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.LogInForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SalesBetweenTwoDateForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SearchViewItemSummaryForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SplashScreenForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutForm.resources
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.cache
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\RdlCompile.compiled
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+F:\Dot Net Reload\BITM\My Software\Project Stock Management System\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
